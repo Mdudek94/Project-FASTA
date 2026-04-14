@@ -8,3 +8,4 @@ This project is structured around classic steps:
 3. Produce a summury of this project
 
 Skills reviewed : Loops, function, reading files, dictionary 
+Libraries required : 
