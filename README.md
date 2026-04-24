@@ -27,3 +27,17 @@ A `main.py` script connects all modules and runs the entire pipeline.
 
 ## Usage
 ```bash
+python main.py
+```
+## Project Structure
+```
+projet-qc-16s/
+├── main.py
+├── data/
+│   └── sequences.fasta
+└── qc_pipeline/
+    ├── parser.py
+    ├── stats.py
+    ├── composition.py
+    └── filter.py
+```
